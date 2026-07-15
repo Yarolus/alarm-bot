@@ -12,7 +12,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ============ КОНФИГУРАЦИЯ ============
-TELEGRAM_TOKEN = "YOUR_BOT_TOKEN_HERE"
+TELEGRAM_TOKEN = "8974880543:AAFACeijxOvsMFijBPyHZvyOUx9SaJ_lnRM"
 YOUR_CHAT_ID = None
 
 # Мониторируемые каналы
