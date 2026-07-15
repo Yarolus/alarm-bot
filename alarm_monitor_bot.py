@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 
 # ============ КОНФИГУРАЦИЯ ============
 # Замените на ваш TOKEN от @BotFather
-TELEGRAM_TOKEN = "YOUR_BOT_TOKEN_HERE"
+TELEGRAM_TOKEN = "8974880543:AAFACeijxOvsMFijBPyHZvyOUx9SaJ_lnRM"
 
 # Ваш Chat ID (можно получить от бота)
 YOUR_CHAT_ID = None  # Будет установлен при первом старте
